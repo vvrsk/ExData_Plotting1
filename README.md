@@ -1,3 +1,5 @@
+##This is a submission for the course Exploratory data analysis in Coursera Assignment 1
+
 ## Introduction
 
 This assignment uses data from
